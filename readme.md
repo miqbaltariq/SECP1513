@@ -7,4 +7,5 @@
 | Pre/co Requisite              | [Insert any prerequisite or corequisite course names and codes if applicable] |
 | Credit Hours                  | 3                           |
 
-<center><img alt="GitHub contributors" src="/images/1641546811846.jpg"></center>
+<p style="text-align:center;"><img alt="GitHub contributors" src="/images/1641546811846.jpg"></p>
+
