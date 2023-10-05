@@ -7,4 +7,4 @@
 | Pre/co Requisite              | [Insert any prerequisite or corequisite course names and codes if applicable] |
 | Credit Hours                  | 3                           |
 
-<img alt="GitHub contributors" src="C:\Users\User\Documents\GitHub\SECP1513\images\1641546811846.jpg">
+<img alt="GitHub contributors" src="/images/1641546811846.jpg">
