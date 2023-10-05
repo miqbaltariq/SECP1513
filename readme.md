@@ -6,3 +6,5 @@
 | Course Name                   | Technology & Information System |
 | Pre/co Requisite              | [Insert any prerequisite or corequisite course names and codes if applicable] |
 | Credit Hours                  | 3                           |
+
+<img alt="GitHub contributors" src="https://img.shields.io/github/contributors/drshahizan/BDM?color=2b9348">
