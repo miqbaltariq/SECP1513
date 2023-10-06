@@ -35,9 +35,9 @@ As a primer subject, this course will introduce students to information systems 
 
 
 ## Contribution 🛠️
-Please create an [Issue](https://github.com/drshahizan/software-engineering/issues) for any improvements, suggestions or errors in the content.
+Please create an [Issue](https://github.com/miqbaltariq/secp1513/issues) for any improvements, suggestions or errors in the content.
 
-You can also contact me using [Linkedin](https://www.linkedin.com/in/drshahizan/) for any other queries or feedback.
+You can also contact me using [Linkedin](https://www.linkedin.com/in/muhammad-iqbal-tariq-idris) for any other queries or feedback.
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
 ![](https://hit.yhype.me/github/profile?user_id=81284918)
