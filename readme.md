@@ -53,5 +53,8 @@ Details on Innovative T&L practices:
 | 4   | Industry talk          | Industry visit is an approach of work-based learning and is a part of NALI (New Academic Innovative Learning). From industry talks, students can clearly understand the role of ICT in various types of organizations and current trends in the industry, such as IR4.0, blockchain. In addition, students can identify the requirements and job specifications for a career in ICT. |
 | 5   | Lab work               | Students are required to assemble and reassemble computer hardware, and this lab work will be done in small groups. |
 
-
+| Transferable Skills               | Presentation and Communication |
+|----------------------------------|-------------------------------|
+| Generic Skills Learning in Course | Yes                           |
+| Usefulness in Other Settings      | Highly useful and applicable  |
 
