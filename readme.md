@@ -7,16 +7,15 @@
 
 Don't forget to hit the :star: if you like this repo.
 
-# Software Engineering (WBL)
+# Technology & Information System
 
 ## Course Synopsis
-This course is designed to give students an introduction to an engineering approach in the development of high-quality software systems. It will discuss the important software engineering concepts in the various types of the common software process models. The students will also learn the concepts and techniques used in each software development phase including requirements engineering, software design and software testing. This course will also expose the students to utilizing object-oriented method (e.g., UML) and tools in analyzing and designing the software. At the end of this course, students are expected to be able to appreciate most of the common software engineering concepts and techniques as well as producing various software artifacts and deliverables.
+As a primer subject, this course will introduce students to information systems and technology (IS/IT) and its uses at home and work. Various aspects of IS/IT encompassing hardware, software, network and communications will be introduced. Students will be equipped with basic skills in handling PC installation and productivity tools via practical work in the labs, which shall comprise a major part of the study. This class also conducts industry visits and talks as a part of work-based learning. Both industry visits and talks will expose students to a real working environment, get knowledge from the industry and increase engagement between university and industry. The student also needs to briefly explore the requirements and job specifications for a career in IT.
 
 ## Course Learning Outcomes
-1. Apply the fundamental of software engineering, software process, requirements engineering to solve software engineering case studies.
-2. Build suitable software architecture, object-oriented design model and develop test cases in software engineering case studies.
-3. Construct software requirements model, software architecture, object-oriented design model and test cases with state-of-the-art methods and tools for a real-world software engineering problem.
-4. Ability to establish good rapport, interact with others, work effectively in a team and comprehend the interchangeable role of leaders and followers with team members.
+1. To explain the computer hardware and the use of computer software.
+2. To differentiate different types of information systems.
+3. To identify the requirements and job specification in brief for a career in IT.
 
 ## 🔥 Important things
 1. [Lecture Notes](https://drive.google.com/drive/folders/1fFqVSa7WdQ2Uet0UdvbQcALUVcqme6gw?usp=sharing)
