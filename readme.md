@@ -39,7 +39,7 @@ Please create an [Issue](https://github.com/miqbaltariq/secp1513/issues) for any
 
 You can also contact me using [Linkedin](https://www.linkedin.com/in/muhammad-iqbal-tariq-idris) for any other queries or feedback.
 
-[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fdrshahizan)
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmiqbaltariq&labelColor=%23697689&countColor=%23555555&style=plastic)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fmiqbaltariq)
 ![](https://hit.yhype.me/github/profile?user_id=81284918)
 
 
