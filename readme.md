@@ -3,7 +3,7 @@
 <a href="https://github.com/miqbaltariq/secp1513/pulls"><img src="https://img.shields.io/github/issues-pr/miqbaltariq/secp1513" alt="Pull Requests Badge"/></a>
 <a href="https://github.com/miqbaltariq/secp1513"><img src="https://img.shields.io/github/issues/miqbaltariq/secp1513" alt="Issues Badge"/></a>
 <a href="https://github.com/miqbaltariq/secp1513/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/miqbaltariq/secp1513?color=2b9348"></a>
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdrshahizan%2Fsoftware-engineering&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fmiqbaltariq%2Fsecp1513&labelColor=%23d9e3f0&countColor=%23697689&style=flat)
 
 Don't forget to hit the :star: if you like this repo.
 
