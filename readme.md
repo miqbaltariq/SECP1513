@@ -29,4 +29,29 @@ Mapping of the Course Learning Outcomes (CLO) to the Programme Learning Outcomes
 Refer **Taxonomies of Learning and ***UTM’s Graduate Attributes for UG and Generic Skills for PG, where applicable for measurement of outcomes achievement
 ****T – Test; Q – Quiz; HW – Homework; Asg – Assignment; PR – Project; Pr – Presentation; F – Final Exam, etc.
 
+| **MQF Cluster Code  |                                                                         |
+|---------------------|-------------------------------------------------------------------------|
+| C1                  | Knowledge & Understanding                                              |
+| C2                  | Cognitive Skills                                                       |
+| C3A                 | Interpersonal Skills                                                   |
+| C3B                 | Interpersonal Skills                                                   |
+| C3C                 | Communication Skills                                                   |
+| C3D                 | Digital Skills                                                         |
+| C3E                 | Numeracy Skills                                                        |
+| C3F                 | Leadership, Autonomy & Responsibility                                   |
+| C4A                 | Personal Skills                                                        |
+| C4B                 | Entrepreneurial Skills                                                 |
+| C5                  | Ethics & Professionalism                                               |
+
+Details on Innovative T&L practices:
+
+| No. | Type                  | Implementation                                                                           |
+|-----|-----------------------|------------------------------------------------------------------------------------------|
+| 1   | Active learning        | Conducted through in-class activities, for example Two-Minute Paper, Think-Pair Share, Note Checking, Reflection, and JIGSAW. |
+| 2   | Project-based learning | Each student is required to complete his/her own e-portfolio. The purpose of this project is to enable students to collect all evidence of his/her learning journey over time during study in UTM. This would be a great benefit to the students when they apply for jobs after graduating from the university and as a part of lifelong learning. |
+| 3   | Industry visit         | Industry visit is an approach of work-based learning and is a part of NALI (New Academic Innovative Learning). From industry visits, students can clearly understand the role of ICT in various types of organizations, e.g., ICT as the core business of organizations or ICT as a business enabler. In addition, students can identify the requirements and job specifications for a career in ICT. |
+| 4   | Industry talk          | Industry visit is an approach of work-based learning and is a part of NALI (New Academic Innovative Learning). From industry talks, students can clearly understand the role of ICT in various types of organizations and current trends in the industry, such as IR4.0, blockchain. In addition, students can identify the requirements and job specifications for a career in ICT. |
+| 5   | Lab work               | Students are required to assemble and reassemble computer hardware, and this lab work will be done in small groups. |
+
+
 
