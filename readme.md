@@ -19,6 +19,7 @@ As a primer subject, this course will introduce students to information systems 
 
 ## 🔥 Important things
 1. [Lecture Notes](https://drive.google.com/drive/folders/1AxKxwRs9empU4W1--FJttJpqlUNgOcTk?usp=sharing)
+   
 | No  | Name                                   | Section  | ID               | Github                                      |
 |-----|----------------------------------------|----------|------------------|---------------------------------------------|
 | 1   | Dr. Azurah binti Abu Samah            | 01,05    | AzurahASamah     | [:octocat:](https://github.com/AzurahASamah) |
