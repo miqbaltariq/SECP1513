@@ -17,4 +17,14 @@
 |                   | Ts. Dr. Sarina Binti Sulaiman (06, 07) | | | sarina@utm.my |
 |                   | Dr. Halinawati Binti Hirol (MJIIT) | | | halinawati@utm.my |
 
+| No.   | CLO*                                                  | PLO** (MQF Cluster Code) | ***Taxonomies and ****generic skills | T&L methods                                | Assessment methods                          |
+|-------|-------------------------------------------------------|--------------------------|---------------------------------------|--------------------------------------------|--------------------------------------------|
+| CLO1  | To explain the computer hardware and the use of computer software | PLO1 (C1)                | Lecture, active learning, Lab work, Industry Talk, Industry Visit | Assignment, Test, Lab, Industry Talk, Industry Visit |
+| CLO2  | To differentiate different types of information systems | PLO6 (C2)                | Lecture, active learning, Industry Talk | Assignment, Test                           |
+| CLO3  | To identify the requirements and job specification in brief for a career in IT. | PLO9 (C5)                | Lecture, active learning, Lab work, Industry Talk, Industry Visit | Assignment, Industry Talk                  |
+
+*Up to 5 CLO
+Refer **Taxonomies of Learning and ***UTM’s Graduate Attributes for UG and Generic Skills for PG, where applicable for measurement of outcomes achievement
+****T – Test; Q – Quiz; HW – Homework; Asg – Assignment; PR – Project; Pr – Presentation; F – Final Exam, etc.
+
 
