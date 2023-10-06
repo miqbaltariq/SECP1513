@@ -17,6 +17,8 @@
 |                   | Ts. Dr. Sarina Binti Sulaiman (06, 07) | | | sarina@utm.my |
 |                   | Dr. Halinawati Binti Hirol (MJIIT) | | | halinawati@utm.my |
 
+Mapping of the Course Learning Outcomes (CLO) to the Programme Learning Outcomes (PLO), Teaching & Learning (T&L) methods and Assessment methods:
+
 | No.   | CLO*                                                  | PLO** (MQF Cluster Code) | ***Taxonomies and ****generic skills | T&L methods                                | Assessment methods                          |
 |-------|-------------------------------------------------------|--------------------------|---------------------------------------|--------------------------------------------|--------------------------------------------|
 | CLO1  | To explain the computer hardware and the use of computer software | PLO1 (C1)                | Lecture, active learning, Lab work, Industry Talk, Industry Visit | Assignment, Test, Lab, Industry Talk, Industry Visit |
