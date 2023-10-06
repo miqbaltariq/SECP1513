@@ -19,6 +19,7 @@ As a primer subject, this course will introduce students to information systems 
 
 ## 🔥 Important things
 1. [Lecture Notes](https://drive.google.com/drive/folders/1AxKxwRs9empU4W1--FJttJpqlUNgOcTk?usp=sharing)
+2. Lectures Information
    
 | No  | Name                                   | Section  | ID               | Github                                      |
 |-----|----------------------------------------|----------|------------------|---------------------------------------------|
