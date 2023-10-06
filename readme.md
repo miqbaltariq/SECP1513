@@ -18,19 +18,16 @@ As a primer subject, this course will introduce students to information systems 
 3. To identify the requirements and job specification in brief for a career in IT.
 
 ## 🔥 Important things
-1. [Lecture Notes](https://drive.google.com/drive/folders/1fFqVSa7WdQ2Uet0UdvbQcALUVcqme6gw?usp=sharing)
-2. Student Information
-    - 🧑‍💻 [Section 01](./materials/student-01.md) 
-    - 👨‍💻[Section 02](./materials/student-02.md)
-3. [Task 1: Additional Notes](./materials/Task1.md)
-4. [Lab exercise](./lab/)
-5. [Project 1: Student Portfolio Showcase (HTML)](./project/1-portfolio/readme.md)
-6. [Project 2: Student Portfolio Showcase (Bootstrap)](./project/2-bootstrap/readme.md)
-7. [Student Portfolio Showcase](https://drshahizan.github.io/) 
-8. [Book](./materials/book.md)
-9. [Software Requirements Document (SRD): Academic Course Registration System](./materials/SRD-sample.md) 
-10. [Class exercise: Module 4](./materials/module4)
-11. 🆕 [Carry marks](./images/SE_CM.pdf)
+1. [Lecture Notes](https://drive.google.com/drive/folders/1AxKxwRs9empU4W1--FJttJpqlUNgOcTk?usp=sharing)
+2. Lecturer Information
+| No | Name | Section | ID |  Github |
+| ----- | ----- | ------ | ------ | :------: |
+| 1 | Dr. Azurah binti Abu Samah | 01,05 | AzurahASamah | [:octocat:](https://github.com/AzurahASamah) |
+| 2 | Dr. Aryati binti Bakri | 02 | Yatib | [:octocat:](https://github.com/Yatib) |\
+| 3 | Ts. Dr. Muhammad Iqbal Tariq bin Idris | 03,04 | miqbaltariq | [:octocat:](https://github.com/miqbaltariq) |
+| 4 | Ts. Dr. Sarina Binti Sulaiman | 06,07 | sarinasulaiman | [:octocat:](https://github.com/sarinasulaiman) |
+| 5 | Dr. Halinawati Binti Hirol | MJIIT |  | [:octocat:](https://github.com/) |
+| 6 | Dr.Mohammed Shihab | QIU |  | [:octocat:](https://github.com/) |
 
 ## Weekly Schedule
 
