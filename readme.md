@@ -20,6 +20,14 @@ As a primer subject, this course will introduce students to information systems 
 ## 🔥 Important things
 1. [Lecture Notes](https://drive.google.com/drive/folders/1AxKxwRs9empU4W1--FJttJpqlUNgOcTk?usp=sharing)
 2. Lecturer Information
+| No  | Name                                | Section | ID            | Github                                        |
+|-----|-------------------------------------|---------|---------------|-----------------------------------------------|
+| 1   | Dr. Azurah binti Abu Samah          | 01,05   | AzurahASamah  | [:octocat:](https://github.com/AzurahASamah) |
+| 2   | Dr. Aryati binti Bakri              | 02      | Yatib         | [:octocat:](https://github.com/Yatib)        |
+| 3   | Ts. Dr. Muhammad Iqbal Tariq bin Idris | 03,04   | miqbaltariq   | [:octocat:](https://github.com/miqbaltariq)  |
+| 4   | Ts. Dr. Sarina Binti Sulaiman       | 06,07   | sarinasulaiman| [:octocat:](https://github.com/sarinasulaiman) |
+| 5   | Dr. Halinawati Binti Hirol          | MJIIT   |               | [:octocat:](https://github.com/)             |
+| 6   | Dr. Mohammed Shihab                 | QIU     |               | [:octocat:](https://github.com/)             |
 
 
 
