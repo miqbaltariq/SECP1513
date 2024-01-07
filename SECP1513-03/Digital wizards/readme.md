@@ -1,0 +1,8 @@
+## Submission
+| No | Members Name |  File & Reflection |
+| :-----: |  ------ | :-----: | 
+| 1 | Bashar Abduljalil Saleh |  <a href="https://github.com/miqbaltariq/SECP1513/tree/main/SECP1513-03/Digital wizards/Bashar Abduljalil Saleh" ><img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/curiousity/img/document1.png?raw=true" width="24px" height="24px" ></a> | 
+| 2 | Mohammed Moqbel Ali | <a href="https://github.com/miqbaltariq/SECP1513/tree/main/SECP1513-03/Digital wizards/Mohammed Moqbel Ali" ><img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/curiousity/img/document1.png?raw=true" width="24px" height="24px" ></a> | 
+| 3 | Muhammad Azfar Bin Sharifuddin | <a href="https://github.com/miqbaltariq/SECP1513/tree/main/SECP1513-03/Digital wizards/Muhammad Azfar Bin Sharifuddin" ><img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/curiousity/img/document1.png?raw=true" width="24px" height="24px" ></a> | 
+| 4 | Abubakar Bello Lawal | <a href="https://github.com/miqbaltariq/SECP1513/tree/main/SECP1513-03/Digital wizards/Abubakar Bello Lawal" ><img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/curiousity/img/document1.png?raw=true" width="24px" height="24px" ></a> | 
+| 5 | Abdelrahman Osama Said |  <a href="https://github.com/miqbaltariq/SECP1513/tree/main/SECP1513-03/Digital wizards/Abdelrahman Osama Said" ><img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/curiousity/img/document1.png?raw=true" width="24px" height="24px" ></a> |  
