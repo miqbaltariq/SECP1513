@@ -1,0 +1,9 @@
+## Submission
+| No | Members Name |  File & Reflection |
+| :-----: |  ------ | :-----: | 
+| 1 | Haziq Irfan Bin Ghazali |  <a href="https://github.com/miqbaltariq/SECP1513/tree/main/SECP1513-03/Averages HL/Haziq Irfan Bin Ghazali" ><img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/curiousity/img/document1.png?raw=true" width="24px" height="24px" ></a> | 
+| 2 | Su Yu | <a href="https://github.com/miqbaltariq/SECP1513/tree/main/SECP1513-03/Averages HL/Su Yu" ><img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/curiousity/img/document1.png?raw=true" width="24px" height="24px" ></a> | 
+| 3 | Leonard Lee Suen Yu | <a href="https://github.com/miqbaltariq/SECP1513/tree/main/SECP1513-03/Averages HL/Leonard Lee Suen Yu" ><img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/curiousity/img/document1.png?raw=true" width="24px" height="24px" ></a> | 
+| 4 | Aaron Tan Yoong Thzen | <a href="https://github.com/miqbaltariq/SECP1513/tree/main/SECP1513-03/Averages HL/Aaron Tan Yoong Thzen" ><img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/curiousity/img/document1.png?raw=true" width="24px" height="24px" ></a> | 
+| 5 | Vishali A/P Mogan |  <a href="https://github.com/miqbaltariq/SECP1513/tree/main/SECP1513-03/Averages HL/Vishali A/P Mogan" ><img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/curiousity/img/document1.png?raw=true" width="24px" height="24px" ></a> |  
+| 6 | Goh Jiale |  <a href="https://github.com/miqbaltariq/SECP1513/tree/main/SECP1513-03/Averages HL/Goh Jiale" ><img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/curiousity/img/document1.png?raw=true" width="24px" height="24px" ></a> | 
