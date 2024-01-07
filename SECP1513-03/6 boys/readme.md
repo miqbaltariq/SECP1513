@@ -1,7 +1,7 @@
 ## Submission
 | No | Student Name |  File |
 | :-----: |  ------ | :-----: |
-| 1 | AVIDIAN DIPESH SIVA |  <a href="https://github.com/miqbaltariq/SECP1513/tree/main/proposal/submission/sec01/Curiousity" ><img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/curiousity/img/document1.png?raw=true" width="24px" height="24px" ></a> | 
+| 1 | AVIDIAN DIPESH SIVA |  <a href="https://github.com/miqbaltariq/SECP1513/6 boys/AVIDIAN DIPESH SIVA" ><img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/curiousity/img/document1.png?raw=true" width="24px" height="24px" ></a> | 
 | 2 | MUHAMMAD DANIAL BIN NASHARUDIN | <a href="https://docs.google.com/document/d/18NUuhr4QC2U0nWMCm7V6GgPZznmsA4sk/edit" ><img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/curiousity/img/docx.png?raw=true" width="24px" height="24px" ></a> | 
 | 3 | TISHEN A/L SANTHIRAGASAN | <a href="https://docs.google.com/document/d/1WGhhNeAzyUHr1NQiJZkYlMmllKr_gQ-6TjUTykMYNow/edit" ><img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/curiousity/img/docx.png?raw=true" width="24px" height="24px" ></a> | 
 | 4 | MOHAMED OMAR MAKHLOUF | <a href="https://docs.google.com/document/d/1a376KQdLW--Bxmo5r83nIQQj5E8YYfpwpwyhyPMroL8/edit" ><img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/curiousity/img/docx.png?raw=true" width="24px" height="24px" ></a> | 
