@@ -1,5 +1,5 @@
 ## Submission
-| No | Members Name |  File & Reflection |
+| No | Submission File/Link | Reflection |
 | :-----: |  ------ | :-----: | 
 | 1 | ABDUR RAHMAN |  <a href="https://github.com/miqbaltariq/SECP1513/tree/main/SECP1513-04/techmaniacs/ABDUR RAHMAN" ><img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/curiousity/img/document1.png?raw=true" width="24px" height="24px" ></a> | 
 | 2 | ANISA CHOWDHURY | <a href="https://github.com/miqbaltariq/SECP1513/tree/main/SECP1513-04/techmaniacs/ANISA CHOWDHURY" ><img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/curiousity/img/document1.png?raw=true" width="24px" height="24px" ></a> | 
