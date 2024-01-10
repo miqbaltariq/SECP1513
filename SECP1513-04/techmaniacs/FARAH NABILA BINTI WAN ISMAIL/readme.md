@@ -1,5 +1,5 @@
 ## Submission
-| No | Description  | Reflection |
+| Assignment | Description  | Reflection |
 | :-----: |  ------ | :-----: | 
 | 1 | Assignment 1/Poster | Reflection 1 | 
 | 2 | Assignment 2/Video | Reflection 2 | 
