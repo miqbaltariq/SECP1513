@@ -1,7 +1,7 @@
 ## Submission
 | No | Submission File/Link | Reflection |
 | :-----: |  ------ | :-----: | 
-| 1 | ABDUR RAHMAN |  <img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/curiousity/img/document1.png?raw=true" width="24px" height="24px" > <a href="https://github.com/miqbaltariq/SECP1513/tree/main/SECP1513-04/techmaniacs/ABDUR RAHMAN" > </a>| 
+| 1 | <img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/curiousity/img/document1.png?raw=true" width="24px" height="24px" > <a href="https://github.com/miqbaltariq/SECP1513/tree/main/SECP1513-04/techmaniacs/ABDUR RAHMAN" > </a> | ANISA CHOWDHURY | 
 | 2 | ANISA CHOWDHURY | <a href="https://github.com/miqbaltariq/SECP1513/tree/main/SECP1513-04/techmaniacs/ANISA CHOWDHURY" ><img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/curiousity/img/document1.png?raw=true" width="24px" height="24px" ></a> | 
 | 3 | ANJUM SIDDIQUA TANVEER SIDDIQUI | <a href="https://github.com/miqbaltariq/SECP1513/tree/main/SECP1513-04/techmaniacs/ANJUM SIDDIQUA TANVEER SIDDIQUI" ><img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/curiousity/img/document1.png?raw=true" width="24px" height="24px" ></a> | 
 | 4 | ANWAR HIDAYAT BN ALI YUSUF | <a href="https://github.com/miqbaltariq/SECP1513/tree/main/SECP1513-04/techmaniacs/ANWAR HIDAYAT BN ALI YUSUF" ><img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/curiousity/img/document1.png?raw=true" width="24px" height="24px" ></a> |
