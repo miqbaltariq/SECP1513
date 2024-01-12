@@ -6,3 +6,6 @@
 | 3 | Assignment 3/Report | Based on what I learned from the talk, I need to continue improving my skills during my four years of study by learning in different languages of programming and expanding my understanding of ICT. I also need to get acquainted to the technology that the industry uses these days.This talk definitely has pulling my heart toward ICT world as i am now can see the future of me in this industry! I can’t wait to see what will i become in the next coming years as a computer science student especially after hearing these golden advices and tips from Ms Qistina!  | 
 | 4 | Assignment 4/Newsletter | Reflection 4 |
 | 5 | Quiz/PC Assemble | As a computer science major specializing in software engineering, it is not enough for me to be proficient in programming, coding, or software development; I also need to be well-versed in computer hardware.Therefore, in this PC Assembly, i have learnt how to reassemble and assemble PC. For instance, i now can take off the power supply, RAM, Fan and other parts also. As a result, I think this PC Assembly is incredibly beneficial for computer science students in order to produce high-quality employees. |
+
+<a>"https://drive.google.com/file/d/1TloSLNOUVNF2yB-1vlxZeRkNPi30S5qC/view?usp=sharing" Click here to see the video of the Utm Digital visit!</a>
+
