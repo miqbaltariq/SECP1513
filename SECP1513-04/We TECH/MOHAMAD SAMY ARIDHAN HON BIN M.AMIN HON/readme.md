@@ -1,8 +1,8 @@
 ## Submission
-| No | Members Name |  File & Reflection |
+| Assignment | Description  | Reflection |
 | :-----: |  ------ | :-----: | 
-| 1 | ALI ESLAM ESSAMELDIN HASHISH |  <a href="https://github.com/miqbaltariq/SECP1513/tree/main/SECP1513-04/We TECH/ALI ESLAM ESSAMELDIN HASHISH" ><img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/curiousity/img/document1.png?raw=true" width="24px" height="24px" ></a> | 
-| 2 | ALWAELI AMR KHALED ABDO | <a href="https://github.com/miqbaltariq/SECP1513/tree/main/SECP1513-04/We TECH/ALWAELI AMR KHALED ABDO" ><img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/curiousity/img/document1.png?raw=true" width="24px" height="24px" ></a> | 
-| 3 | CHEW ZHUO HENG | <a href="https://github.com/miqbaltariq/SECP1513/tree/main/SECP1513-04/We TECH/CHEW ZHUO HENG" ><img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/curiousity/img/document1.png?raw=true" width="24px" height="24px" ></a> | 
-| 4 | CHONG LUN QUAN | <a href="https://github.com/miqbaltariq/SECP1513/tree/main/SECP1513-04/We TECH/CHONG LUN QUAN" ><img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/curiousity/img/document1.png?raw=true" width="24px" height="24px" ></a> | 
-| 5 | MOHAMAD SAMY ARIDHAN HON BIN M.AMIN HON |  <a href="https://github.com/miqbaltariq/SECP1513/tree/main/SECP1513-04/We TECH/MOHAMAD SAMY ARIDHAN HON BIN M.AMIN HON" ><img src="https://github.com/drshahizan/software-engineering/blob/main/project/project/sec01/curiousity/img/document1.png?raw=true" width="24px" height="24px" ></a> |  
+| 1 | Assignment 1/Poster | Reflection 1 | 
+| 2 | Assignment 2/Video | Reflection 2 | 
+| 3 | Assignment 3/Report | Reflection 3 | 
+| 4 | Assignment 4/Newsletter | Reflection 4 |
+| 5 | Quiz/PC Assemble | Reflection Quiz |
