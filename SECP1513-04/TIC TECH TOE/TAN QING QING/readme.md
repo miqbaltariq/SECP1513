@@ -6,3 +6,5 @@
 | 3 | Assignment 3/Report | Reflection 3 | 
 | 4 | Assignment 4/Newsletter | Reflection 4 |
 | 5 | Quiz/PC Assemble | Reflection Quiz |
+| 6 | Design Thinking Project | Report |
+| 7 | Design Thinking Project | Video |
