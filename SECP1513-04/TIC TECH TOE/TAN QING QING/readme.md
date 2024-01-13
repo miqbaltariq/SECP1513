@@ -7,4 +7,4 @@
 | 4 | Assignment 4/Newsletter | Reflection 4 |
 | 5 | Quiz/PC Assemble | Reflection Quiz |
 | 6 | Design Thinking Project | Report |
-| 7 | Design Thinking Project | Video |
+| 7 | Design Thinking Project | Video https://drive.google.com/drive/folders/1XZ7q_m9VGeYJ_lQzetsws1TDdIcyaAQb?usp=sharing |
