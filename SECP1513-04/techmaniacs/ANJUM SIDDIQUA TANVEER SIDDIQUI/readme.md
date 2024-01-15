@@ -1,0 +1,7 @@
+| Assignment | Content | Reflection |
+| --- | --- | --- |
+|1 - Poster | `Overview of ICT jobs in Clarity Techworks` | Learnt the huge process behind creating a poster. I realized that the poster that seems attractive to our eyes at first was just a blank paper that was minutely crafted with patience. |
+|2 - Video  | `Visit to UTM Digital` | I always wanted to make aesthetic videos that I used to see on YouTube but I didn't get the chance to do so. We were assigned with making a video for our visit to UTM Digital and I got the opportunity to make the video for my group, I had fun using iMovie to make our video and sometimes when I got struck, I watched some YouTube tutorials to help me out and then atlast watching the final video felt that all the hardwork finally paid of. |
+|3 - Report | `System Development @ Credence` | My team and I decided to make the cover of the report in magazine cover style and then since we had 3 pages limit we tried our best to put in quality content maintaining our page limit. I loved the process of making the report in a magazine style. This assignment sparked my Interest in magazine making and in future I want to do more magazine editing. |
+|4  | `Assignment 4` | Reflection |
+|5 - Hands on | `PC Assemble ` | |
