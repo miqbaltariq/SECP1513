@@ -10,6 +10,6 @@ and how it deals with and redefines problems to simplify and understand it, most
 tackling ill-defined or unknown problems we may encounter today.
 I plan to improve myself over the course months and years to able to reach my goals as a
 software engineer. I would start and love to start by only focusing on Programming and their
-supersets to evolve my skills.           | 
+supersets to evolve my skills.| 
 | 4 | Assignment 4/Newsletter | Reflection 4 <br>   AAAAAAAAAAAAAA         |
 | 5 | Quiz/PC Assemble | Reflection Quiz <br> AAAAAAAAAAAAAAAAAAAAAAAAA|
