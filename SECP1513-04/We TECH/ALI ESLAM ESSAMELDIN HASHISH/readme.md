@@ -2,7 +2,7 @@
 | Assignment | Description  | Reflection |
 | :-----: |  ------ | :-----: | 
 | 1 | Assignment 1/Poster | Reflection 1 <br> AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA.| 
-| 2 | Assignment 2/Video | Reflection 2 <br> AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA. <br> AAAAAAAAAAAAAA <br> AAAAAAAAAAAA <br> Video Link <br> https://drive.google.com/drive/folders/1Dq5C8PDExWydHJ8A3ihGCFXFyW6USKns?usp=sharing |
+| 2 | Assignment 2/Video | Reflection 2 <br>      aaaaaaaaaaaaaaaaaaaaaaaaa           <br> Video Link <br> https://drive.google.com/drive/folders/1Dq5C8PDExWydHJ8A3ihGCFXFyW6USKns?usp=sharing |
 | 3 | Assignment 3/Report | Reflection 3 <br>    I’m aiming to become widely knowledgeable about the basics of design thinking and its benefits in my life as a programmer. Also being knowledgeable about technology and
 information will help a lot in my daily life activities.
 Design Thinking has greatly changed my view about the technological world we live in today
