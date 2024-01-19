@@ -1,7 +1,6 @@
 | Assignment | Description  | Reflection |
 | :-----: |  ------ | :-----: | 
-| 1 | Assignment 1/Poster | The industry talk exposed me to a new frontier and perspective of the working world outside of the confines of the classroom 
-which greatly influenced my percception and opinion about the topics mentioned in the talk. | 
+| 1 | Assignment 1/Poster | The industry talk exposed me to a new frontier and perspective of the working world outside of the confines of the classroom which greatly influenced my percception and opinion about the topics mentioned in the talk. | 
 | 2 | Assignment 2/Video | The industrial visit to UTMDigital has provided a greater undestanding into the importance of the digital and tech infrastructures
 working behind the scenes to support UTM | 
 | 3 | Assignment 3/Report | The industrial talk by Credence (a subsidiary of TM) have provided insights and a deep dive into the various aspects of the company 
