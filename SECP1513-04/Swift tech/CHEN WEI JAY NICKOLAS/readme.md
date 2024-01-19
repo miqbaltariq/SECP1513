@@ -5,4 +5,4 @@
 | 2 | Assignment 2/Video | For me, the visit was a real eye-opener. I learnt a lot of different job and the latest technologies that applied in industry. I hope I can work in an industry that stay ahead of the curve such as UTMDigital. This link is the video about the industry visit to UTMDigital "https://drive.google.com/file/d/19CXT6zDv0II_Y_acRiDPgoLa8tQnA-wt/view?usp=drivesdk" | 
 | 3 | Assignment 3/Report | From this industry talk, I have a deeper understanding of my future career direction and it enhanced my interest in working as a system developer in the future. I found out that is quite interesting when working as a system developer, different from my stereotype which is I think it is a boring jobs before take part in this industry talk. | 
 | 4 | Assignment 4/Newsletter | Reflection 4 |
-| 5 | Quiz/PC Assemble | Reflection Quiz |
+| 5 | Quiz/PC Assemble | This is a good experience for me as it is my first time to assemble and dissemble the PC. I don't have opporturnity to do this task before, I really enjoy it and learnt how to assemble and dissemble a PC. |
