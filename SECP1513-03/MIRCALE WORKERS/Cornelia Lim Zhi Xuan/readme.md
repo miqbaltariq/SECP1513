@@ -10,6 +10,6 @@
 |                             |  skills, and continuous learning.                                                                                      |
 |                             |                                                                                                                        |
 |                             | Personally, this session has broadened my understanding of the tech industry and inspired me to approach my future     |
-|                             |  career with adaptability and a commitment to ongoing learning. The strategic insights outlined in the "Way Forward"    
+                            career with adaptability and a commitment to ongoing learning. The strategic insights outlined in the "Way Forward"    
 |                             |  and "Execution Summary" offer a roadmap for success in the dynamic field of Information Technology.                   |
 | Content Cell  | Content Cell  |
