@@ -1,10 +1,10 @@
-**Submission**
+**Summary**
 
-| No | Assignment | Reflection |
-| :---: | :---: | :--- |
-| 1 | Assignment 1 (Poster) |  |
-| 2 | Assignment 2 (Video) |   |
-| 3 | Assignment 3 (Report) |  |
-| 4 | Assignment 4 (Newsletter) |   |
-| 5 | PC Assemble (Lab) |   |
-| 6 | Design Thinking (Low Fidelity Prototype) |   |
+| No | Description | Reflection |
+| :---: | :---: | :---: |
+| 1 | Assignment 1 (Poster) | Clarity Techworks hosted an industrial talk in which the speakers discussed their jobs, roles, and experiences. In this talk, the speakers' sharing session provided me with an initial overview of my future computer career. Furthermore, the speakers had given me sound advice on my future careers. This gave me a direction to improve myself and motivated me to keep learning in order to stay competitive. In a nutshell, this industrial talk prepared me to avoid detours in the future. |
+| 2 | Assignment 2 (Video) | This industrial visit to UTMDigital provided me with a preliminary understanding of the UTM systems that UTMDigital operates because it exposes and informs students about what they can do with their degrees. This industry visit provided me with an opportunity to see the forefront of technological innovation and real-world application of studies, which will be extremely beneficial in my future careers. Besides, attending the industry talk allowed me to ask questions and learn from the experts. This can provide me with additional information and a different perspective. |
+| 3 | Assignment 3 (Report) | Throughout this industrial talk by TM Credence, it has provided me insights and a deep dive into various aspects of the computing company which is solely focused on the growth of cloud and digital services analytics. They shared their experiences, as well as the technology and tools they used in their system development, which greatly aided my success as a system developer. |
+| 4 | Assignment 4 (Newsletter) | My visit to Clarity Techworks was a fascinating journey into the dynamic world of innovation. The first thing I noticed was their pleasant physical infrastructure, which encouraged employees to think outside the box. Furthermore, the employees' sharing session was very enjoyable because they had prepared some mini-games for us to play for interactive purposes. In short, this industry visit had a significant impact on me because the staff were senior leaders in shaping a digital future. |
+| 5 | PC Assemble (Lab) | Throughout the PC Assemble, I would be able to learn a lot about the components of the PC. There is a common saying that actual practice is the sole criterion for determining the truth. By assembling and disassembling the PC, I was able to apply my knowledge to the quiz session, which provided me with a thorough understanding of the PC assemble process. |
+| 6 | Design Thinking (Low Fidelity Prototype) | This design thinking prototype was extremely useful to me because it allowed me to investigate the intersection of technology between physical objects and software. Throughout the process, I would be able to apply my knowledge to make an actual impact in the lives of the users by researching and analyzing their needs and problems. This would make me proud because it will have a significant impact on the users. In conclusion, the design thinking process allowed me to think freely, which will shape my future endeavors in the fascinating field of technology. |
