@@ -1,8 +1,8 @@
 ## Submission
 | Assignment | Description  | Reflection |
 | :-----: |  ------ | :-----: | 
-| 1 | Assignment 1/Poster | REFLECTION 1 | 
-| 2 | Assignment 2/Video | REFLECTION 2 | 
-| 3 | Assignment 3/Report | REFLECTION 3 | 
-| 4 | Assignment 4/Newsletter | REFLECTION 4 |
-| 5 | Quiz/PC Assemble | REFLECTION 5 |
+| 1 | Assignment 1/Poster | The talk on Clarity Technology was cool. They're a finance tech company into blockchain in Malaysia and Singapore. Rapidz Pay, their product, is all about crypto payments. They're big on teamwork and learning. The talk highlighted the changing ICT jobs and the need for diverse skills. Comparing work and student life, it made me think about the challenges and benefits. It's helpful for us students planning for the future. | 
+| 2 | Assignment 2/Video | The visit to UTM Digital was exciting. The staff was really nice and explained things well. I saw how a real industry operates, especially how they store data on servers. It helped me connect what we learn in class to the real world scenario. | 
+| 3 | Assignment 3/Report | The industry talk taught me a lot about how the tech companiy operates, especially when it comes to building systems. The speakers' stories helped me understand system development better and gave me useful insights. | 
+| 4 | Assignment 4/Newsletter | I went to Clarity Techworks and saw how a finance tech company works. The staff were friendly, and I learned about making web and mobile apps, testing them, and designing their look. It was cool to see the tools they use, like Laravel and Swift UI, to make apps run well. The visit showed us that making apps takes teamwork and new ideas.The CTO, Mr. Tuck's story inspired me to follow our passions in tech. |
+| 5 | Quiz/PC Assemble | The assembling and disassembling a PC was a great learning experience. I learned to recognize different parts and worked with my group to assemble the PC together. Afterward, a quiz tested what I learned, making me apply my new knowledge on paper. It was my first time assembling a PC, and doing it with a group made me more confident. This whole process showed me the importance of teamwork in gaining skills and knowledge.Also ,time is money is one thing i learn in this practical work. |
