@@ -1,4 +1,4 @@
-Submission
+## Submission
 |No|Description|Reflection|
 |---|---|---|
 |1|Assignment 1/Poster|The industrial talk by Clarity Techworks Sdn. Bhd. was really interesting and it gives a significant advantage for me as a student of computer science. They shared the career path of a software engineering student, introducing various job opportunities such as Android Developer, QA Analyst, UI/UX Designer and Web/API developer. They also discussed the required skills, technologies and offered some advices for us to prepare before entering the real industry.|
