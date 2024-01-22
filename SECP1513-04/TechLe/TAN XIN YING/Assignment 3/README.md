@@ -8,7 +8,7 @@ Platform: Webex by Cisco</br>
 
 <h2> Pictures of Industrial Talk 2</h2>
   <a href="image of IT2">
-     <img src="https://github.com/miqbaltariq/SECP1513/assets/147911566/ad9f1380-c2a7-4a68-9641-7ef7e30acbdd
+     <img src="https://github.com/miqbaltariq/SECP1513/assets/147911566/e237da10-cefe-4675-b3a8-c9a9a4a2bfd8
 "alt="Logo" width="400" height="400">
     
 <h2>Personal Overview and Thoughts</h2>
