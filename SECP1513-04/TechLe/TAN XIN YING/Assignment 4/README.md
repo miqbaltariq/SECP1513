@@ -17,6 +17,8 @@ Venue: Clarity Techworks  Sdn Bhd,Wisma Sunway Big Box,79250 Iskandar Puteri, Jo
 
 
 <h2>Personal Overview and Thoughts</h2>
+Visiting Clarity Techworks was an eye-opening experience. Witnessing the real-world application of what I've learned in classrooms was both exciting and insightful. The innovative work environment and cutting-edge technologies showcased during the visit left me inspired. It was clear that collaboration and creativity are at the heart of their success. The visit not only deepened my appreciation for the tech industry but also sparked a curiosity to explore more and consider the possibilities for a future career in technology.
+
 After the industrial visit to the Clarity Techworks, I am filled with a sense of awe and inspiration. The firsthand experience of witnessing the inner workings of a cutting-edge technology company has left a lasting impression on me.
 
 One of the most striking aspects was the atmosphere of innovation and creativity that permeated the entire workplace. The employees seemed passionate about their work, and the collaborative spirit was palpable. It was evident that the company fostered a culture that encouraged thinking outside the box and pushing the boundaries of what is possible.
