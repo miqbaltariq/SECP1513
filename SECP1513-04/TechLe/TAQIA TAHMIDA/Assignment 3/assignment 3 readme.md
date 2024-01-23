@@ -1,1 +1,2 @@
-
+## Assignment 3 Reflection
+It was interesting to learn about the system development process of Credence and hear an alumni talk about her experience of working in this industry. This has inspired me to look forward to the day I have enough skills to venture into developing systems myself and made me look forward to my studies and have a resolve to work even harder in learning and gaining knowledge.
