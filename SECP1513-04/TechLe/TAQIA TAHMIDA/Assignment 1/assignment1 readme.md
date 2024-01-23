@@ -1,2 +1,2 @@
 ## Assignment 1 Refelction
-This industry talk has introduced me to the diverse jobs availbale in the IT sector and taught me that in this field, even after finishing university we need to continue learning new things.
+This industry talk has introduced me to the diverse jobs availbale in the IT sector ranging from UI/UX designer, QA tester to web developer, andriod developer,etc. We got to learn the job scopes of some of the jobs and the tools they regularly use. It also taught me that in this field, even after finishing university we need to continue learning new things. As a first year student in software engineering this was a valuable experience.
