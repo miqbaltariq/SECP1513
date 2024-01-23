@@ -44,5 +44,3 @@ In addition, this visit profoundly expanded my vision of the IT industry. It not
 ![build-pc](https://github.com/miqbaltariq/SECP1513/assets/148403251/88e3acec-97c3-45b3-81ba-1aa053cf7696)
 
 The task of assembling the desktop host provided me with a hands-on learning opportunity. The teacher patiently guided us in the process of disassembling and reassembling the computer host, which gave me a deeper understanding of the structure and function of the hardware. By assembling it myself, I gained a clearer understanding of the role of each part, which made me more confident when dealing with computer problems in the future. The most exciting part was connecting the assembled console to the monitor for testing, which not only tested my assembly skills, but also allowed me to experience firsthand the sense of accomplishment of completing an actual task. This assignment not only enhanced my hardware knowledge, but also developed my problem-solving and teamwork skills.
-
-<span style="font-family: 'Times New Roman', Times, serif;">course</span>
