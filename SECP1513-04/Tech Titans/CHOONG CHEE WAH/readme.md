@@ -1,9 +1,9 @@
-*******************************************************************************************************************
-                                                               REFLECTION
+
+# REFLECTION
 *******************************************************************************************************************
 
    　　　
-1. ASSIGNMNET 1 - INDUSTRIAL TALK 1 - POSTER
+# 1. ASSIGNMNET 1 - INDUSTRIAL TALK 1 - POSTER
 
 ![What-is-ChatGPT](https://github.com/miqbaltariq/SECP1513/assets/148403251/2696a0c6-72dd-4331-87c1-3a4047cb96ba)
 
@@ -11,7 +11,7 @@ This online meeting with the CEO of CLARITY TECHWORKS SDN BHD was a very enlight
 
 *******************************************************************************************************************
 
-2. ASSIGNMENT 2 - INDUSTRIAL VISIT 1 - VIDEO
+# 2. ASSIGNMENT 2 - INDUSTRIAL VISIT 1 - VIDEO
 
 ![UTM LOGO](https://github.com/miqbaltariq/SECP1513/assets/148403251/f191cb0e-7e59-41e1-a7a6-7dc6ae4b2b1f)
 
@@ -19,7 +19,7 @@ Visiting the school's UTM Digital building was an unforgettable experience. The 
 
 *******************************************************************************************************************
 
-3. ASSIGNMENT 3 - INDUSTRIAL TALK 2 - REPORT
+# 3. ASSIGNMENT 3 - INDUSTRIAL TALK 2 - REPORT
 
 ![PROGRAMMING 1](https://github.com/miqbaltariq/SECP1513/assets/148403251/0b1bb961-fc6a-41ed-a874-8fd4d5d857d5)
 
@@ -27,7 +27,7 @@ Reflecting on the industry trends highlighted in the talk, I find myself reevalu
 
 *******************************************************************************************************************
 
-4. ASSIGNMENT 4 - INDUSTRIAL VISIT 2 - NEWSLETTER
+# 4. ASSIGNMENT 4 - INDUSTRIAL VISIT 2 - NEWSLETTER
 
 ![MEETING](https://github.com/miqbaltariq/SECP1513/assets/148403251/89807419-d470-4cb9-ad72-15ad5624347d)
 
@@ -38,9 +38,8 @@ In addition, this visit profoundly expanded my vision of the IT industry. It not
 
 *******************************************************************************************************************
 
-5. PC ASSEMBLE
+# 5. PC ASSEMBLE
 
 ![build-pc](https://github.com/miqbaltariq/SECP1513/assets/148403251/88e3acec-97c3-45b3-81ba-1aa053cf7696)
 
 The task of assembling the desktop host provided me with a hands-on learning opportunity. The teacher patiently guided us in the process of disassembling and reassembling the computer host, which gave me a deeper understanding of the structure and function of the hardware. By assembling it myself, I gained a clearer understanding of the role of each part, which made me more confident when dealing with computer problems in the future. The most exciting part was connecting the assembled console to the monitor for testing, which not only tested my assembly skills, but also allowed me to experience firsthand the sense of accomplishment of completing an actual task. This assignment not only enhanced my hardware knowledge, but also developed my problem-solving and teamwork skills.
-
