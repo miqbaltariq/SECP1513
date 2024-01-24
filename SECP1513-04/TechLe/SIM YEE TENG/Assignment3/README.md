@@ -1,1 +1,12 @@
+#Assignment 3 - Industrial Talk 2
+<p>We have our second industrial talk through webex with Ms Qistina. </p>
+<p>Through the industrial talk, Ms Qistina had told us about the possible career we can move on, such as business analysts, data architecture, data scientist, data analyst, data engineer and BI developer. She also did tell is about technology that are mostly used in the future, such as 
+<p>for database/ OLAP there will be PostgreSQL, ClickHouse, Druid <p/>
+<p>for visualisation Tools there will be Tableu, PowerBI, Metabase,Superset</p>
+ <p>for ETL/ ELT there will be Airflow, Spark</p>
+ <p>for programming language there will be SQL, Python, Bash Syntax </p>
+ <p>As a reflection, in my opinion I feel that the talk was really helpful as Ms Qistina clarified every thing that are useful in our future. We get to set our goal now to any possible career that we are interested in and started focusing on it. Morever, as we have already told about those technology used in the future by Ms Qistina, we can start to explore them when we have leisure time or during semester break so that we can have extra information other than in-class studies.</p>
 
+<p>Have a glance on our report for this industrial talk:</p>
+
+[TIS_TechLe_ASG3 (3).pdf](https://github.com/miqbaltariq/SECP1513/files/14033204/TIS_TechLe_ASG3.3.pdf)
