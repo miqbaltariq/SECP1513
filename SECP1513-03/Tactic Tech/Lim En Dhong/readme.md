@@ -1,0 +1,11 @@
+## Reflection:
+
+TIS is an attractive subject. It has benefited me a lot through various assignments and projects. The following is my reflection:
+
+|    Assignment            |Description                          |Reflection                         |
+|----------------|-------------------------------|-----------------------------|
+|   1|Assignment 1/Poster            |The industry talk provided me with essential tips for business development within my area of expertise. Learning about these strategies has equipped me with valuable insights and practical knowledge that I can apply to enhance my skills in my professional field.            |
+|2        |Assignment 2/Video            |The industry visit to UTM Digital at my university offered a firsthand look into the digital sector within my field. Exploring the facilities and interactions with professionals provided practical insights, reinforcing the relevance of my academic studies to real-world applications.            |
+|3         |Assignment 3/Report|The industry talk provided me with a deeper understanding of system development, enhancing my knowledge in my respective field. It shed light on various aspects of the industry, contributing valuable insights to my professional growth.|
+|4|Assignment 4/Newsletter|The industry visit to Clarity Techworks was an inspiring experience, showcasing the emerging power of technology and innovation. I gained valuable new knowledge, and the company's atmosphere motivates me to further develop my skills in the field of network technology. Recognizing the challenges in each department, I understand the importance of possessing sufficient knowledge, skills, attention to detail, and patience for success.|
+|5|Quiz/PC Assemble|Assembling a computer provided a hands-on exploration of technology, requiring careful component selection and attention to detail. Overcoming troubleshooting challenges not only enhanced problem-solving skills but also deepened my appreciation for the complexibility behind these devices.|
