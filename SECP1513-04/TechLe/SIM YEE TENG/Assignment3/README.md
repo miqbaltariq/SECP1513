@@ -1,5 +1,6 @@
 #Assignment 3 - Industrial Talk 2
 <img src = https://github.com/miqbaltariq/SECP1513/assets/148403179/6e0ad600-fae9-4e01-a9aa-ba5572cabcf7 >
+<p>Reference link : https://assets.theedgemarkets.com/TM-tower_20230130191736_www.tm_.com_.my_.jpg<p/>
 <p>We have our second industrial talk through webex with Ms Qistina from TM ( telekom Malaysia ) . </p>
 <p>Through the industrial talk, Ms Qistina had told us about the possible career we can move on, such as business analysts, data architecture, data scientist, data analyst, data engineer and BI developer. She also did tell is about technology that are mostly used in the future, such as :
 <p>1. For database/ OLAP there will be PostgreSQL, ClickHouse, Druid <p/>
