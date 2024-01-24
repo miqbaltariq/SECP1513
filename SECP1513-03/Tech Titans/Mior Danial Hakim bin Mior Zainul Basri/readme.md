@@ -1,9 +1,9 @@
 ## Submission
 | Assignment | Description  | Reflection |
 | :-----: |  ------ | :-----: | 
-| 1 | Assignment 1/Poster |  | 
-| 2 | Assignment 2/Video |  | 
-| 3 | Assignment 3/Report |  | 
-| 4 | Assignment 4/Newsletter | |
-| 5 | Quiz/PC Assemble |  |
-| 6 | Design Thinking (Low Fidelity Prototype |  |
+| 1 | Assignment 1/Poster | During the talk, I learned lots of important information regarding on how to get into ICT industry, including job description and qualification. Also, I'm able to strategically plan my way on how to get into this field in the future | 
+| 2 | Assignment 2/Video | From the visit, I got to learn what is UTM Digital is all about and how each departments contribute to provide us with systems that benefit the student as well as UTM staff which i find it very useful and interesting (Youtube Link: https://youtu.be/5v4cbgpPltU?si=Kxt-lTLQyzNUWThS) | 
+| 3 | Assignment 3/Report | The industrial talk was pretty eye-opening. I got a good look at how tech company does its thing, especially when it comes to building systems, providing services such as cloud and digital services. The insights provided by the speakers improved my knowledge of system development. | 
+| 4 | Assignment 4/Newsletter | My visit to Clarity Techworks was amazing. I learned a lot of information and insights from various departments. Not only that, the staff there were friendly and thoroughly explained what they did in their departments and I find it very fun and interesting. |
+| 5 | Quiz/PC Assemble | Participating in the PC assemble session helped me to become familiar with the various components of a computer. Working with my group members, we gained hands-on experience by assembling and disassembling the PC. The quiz helped me understand the specific functions of each component and their placements. |
+| 6 | Design Thinking (Low Fidelity Prototype) | The design thinking assignment benefited me a lot. It allowed me to get hands on experience with technology and real world problems, teaching me how to understand what people need. I had the opportunity to develop practical solutions that addressed the specific problems that users faced. Working with my team also improved my communication and brainstorming skills. |
