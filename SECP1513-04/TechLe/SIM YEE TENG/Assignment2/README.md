@@ -7,4 +7,4 @@
 
 <p>Have a look on our video about Digital Center UTM <p/>
 https://www.youtube.com/watch?v=rWfqg55Ml6E
-![utm digital lifestyle](https://github.com/miqbaltariq/SECP1513/assets/148403179/de430868-c0b2-4c7d-b9ab-2759d1cb3099)
+
