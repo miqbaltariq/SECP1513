@@ -9,4 +9,4 @@
 
 <p>Have a glance on our report for this industrial talk:</p>
 
-[[TIS_TechLe_ASG3 (3).pdf](https://github.com/miqbaltariq/SECP1513/files/14033204/TIS_TechLe_ASG3.3.pdf)](https://drive.google.com/file/d/1uERvJ_5EBWmVDh80mfBHqmNQeuh2D68b/view?usp=sharing)https://drive.google.com/file/d/1uERvJ_5EBWmVDh80mfBHqmNQeuh2D68b/view?usp=sharing
+<a href = "https://drive.google.com/file/d/1uERvJ_5EBWmVDh80mfBHqmNQeuh2D68b/view?usp=sharing)https://drive.google.com/file/d/1uERvJ_5EBWmVDh80mfBHqmNQeuh2D68b/view?usp=sharing" > report</a>
