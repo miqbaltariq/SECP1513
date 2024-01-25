@@ -11,11 +11,9 @@ Venue : UTM Digital Center </br>
 </p>
 
 <h2>Visit to UTM Digital Center Vlog</h2>
-  
+Click the link below to view the vlog :)
 
-https://github.com/xinydd/IndustrialVisit1/assets/147911566/776cacaa-cc42-479d-b758-b5ba23de4cea
-
-
+<a href="https://drive.google.com/file/d/1pVrzR8Jw5Uyrr28ah_kWNXQEUPwK0Yvm/view?usp=sharing"> Vlog </a>
 
 <h2>Interview Questions</h2>
 
