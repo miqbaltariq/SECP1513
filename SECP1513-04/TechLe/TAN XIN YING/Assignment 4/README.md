@@ -13,7 +13,8 @@ Venue: Clarity Techworks  Sdn Bhd,Wisma Sunway Big Box,79250 Iskandar Puteri, Jo
 </br></br>
 
 <h2>Newsletter for Visit to Clarity Techworks</h2>
-
+Click this link to view our newsletter
+<a href =""></a>
 
 
 <h2>Personal Overview and Thoughts</h2>
