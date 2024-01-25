@@ -1,11 +1,30 @@
 ![header](https://github.com/simyeeteng/simyeeteng/assets/148403179/cc8ebef7-ea82-414d-8e4b-ab5e30dc8d0e)
-### Hi there 👋
-<img src = "https://github.com/simyeeteng/simyeeteng/assets/148403179/3f91b833-700a-4cf2-b100-1dd0310e4bd6" align = "right" width = "400" height = "600" />
-<p>I'm Sim Yee Teng currently studying at University Technology Malaysia.
-<p>First year Software Engineering student here</p>
-<p></p>Position : Part of TEDxUTM 2024 Graphic Design Department</p>
-<p>Softskills : Java , C++ , C</p>
-<p>Here's some of my certificate : </p>
-<a href = "https://drive.google.com/file/d/1X7AhgR7Z9O82agog1d4no7xBPbpCAVUn/view?usp=sharing ">certificate</a>
+## Submission
+| Assignment | Description  | Reflection |
+| :-----: |  ------ | :-----: | 
+| 1 | Assignment 1-Poster | <p>As a summary, Clarity Techwork has give us a very attentive talk. In the talk, they mentioned about the task of every workers including web developer, UI/UX designer, API developer, QA tester and andriod developer. Through their sharing of their experience we have a clearer picture of their job scope. They did mention that the language they often use such as Laravel and Vue so that we can do some research before we find jobs. They also mention the technology that they used such as Andriod Studio to develop mobile application and Firebase Console to monitor user applocaiton crashes and notificaiton.</p>
+<p>For the part of reflection, from this industrial talk, I have know the difference between university and work. They did mention and tell us that there are more challenge in the work phase as we need to develop everything according to the reality so that it is useful and user-freindly. Thus, from this point, I know that I need to be aware to the surroundings and the new stuff happens around me so that I can develop some new apps which can solve problems in daily life in the future. Besides, they did mention that communication is important among the staffs. As they mentioned, communication is really important as life now we seldom communicate face to face and will cause some misunderstanding when we do some group projects and assignments. Hence, we would encourage face to face meetings and discussions for the upcoming assignments and projects! </p>| 
+| 2 | Assignment 2-Video | <p>This time we are so gald to have a chance to visit the digital Center in UTM. For more details, Digital Center UTM acts as a core of wifi in the whole UTM. In the center, what amaze me the most is the data center but as it does not allow filming, we do not have any picture regarding it. The data center is very important to UTM as it provides big data and data analysis to the whole UTM.</p>
+<p>Through interview with the staff there, we are amaze of the way they solve every problem as it is very systematic and efficient. For more details, they have 3 levels. Level 0 is the testing stage, proceed to level 1 which is the technical team and at last level 2 which involve person in charge with all technical problem. </p>
+<p>The staffs also give us some advise, she hopes that we can have challenge bravely as we might face different and new challange everyday due to the improving of technology. Due to the speedy improving of technology, we must study for the new technology everyday so that we can develop apps or system which is efficient and fulfilled users' demand. </p>                                                      https://www.youtube.com/watch?v=rWfqg55Ml6E| 
+| 3 | Assignment 3-Report | <p>We have our second industrial talk through webex with Ms Qistina from TM ( telekom Malaysia ) . </p>
+<p>Through the industrial talk, Ms Qistina had told us about the possible career we can move on, such as business analysts, data architecture, data scientist, data analyst, data engineer and BI developer. She also did tell is about technology that are mostly used in the future, such as :
+<p>1. For database/ OLAP there will be PostgreSQL, ClickHouse, Druid <p/>
+<p>2. For visualisation Tools there will be Tableu, PowerBI, Metabase,Superset</p>
+ <p>3. For ETL/ ELT there will be Airflow, Spark</p>
+ <p>4. For programming language there will be SQL, Python, Bash Syntax </p>
+ <p>As a reflection, in my opinion I feel that the talk was really helpful as Ms Qistina clarified every thing that are useful in our future. We get to set our goal now to any possible career that we are interested in and started focusing on it. Morever, as we have already told about those technology used in the future by Ms Qistina, we can start to explore them when we have leisure time or during semester break so that we can have extra information other than in-class studies.Hence, in the future we get to learn and achieve them in a short period of time and have more chance to learn new knowledge.</p>| 
+| 4 | Assignment 4-Newsletter | <p>We are so happy as we have the apportunity of see the real picture of Clarity Techworks after the webex session with them. The staffs are so friendly and willing to answer all our questions when we visited every station. Most importantly, I have truely inspired by Mr Yee Soon Tuck's story that brings out his determination in computer science. </p>
+<p>As a reflection, we would have treat Software Engineering course as our passion. We ought to remind ourself the purpose we take this course. With the passionate and the curiosity throughout this course, we will have the urge to keep on exploring new things in computer science and even coding. With the love and determination for this course, we will face every challenges we encounter bravely and will not give up easily. With the attitude of learning new knowledge and determination, I believe that we will success and be a good software developer one day. </p>.|
+| 5 | Quiz-PC Assemble | <p>As a summary for this PC assemble, I would like to say it was very interesting. The new knowledge I have gain from this PC assemble is the name of every components and the step to disassemble the CPU in the correct way.
+<p>The correct way to disassemble CPU is as below : <p/>
+<p>1. Open case</p>
+<p>2. Disconnect cable</p>
+<p>3. Disassemble power supply</p>
+<p>4. Disassemble RAM</p>
+<p>5. Disassemble hard disk(HDD)</p>
+<p>6. Disassemble CPU Fan</p>
+<p>In my opinion, this PC assemble held has let me gain a new experience as this is the first time I have the chance to look into the inner part of CPU. Besides, I have a chance to disassemble the CPU by myself. I really enjoy the whole process of PC assemble. Truely to say, I hope to have more learning by physically such as this PC assemble, as it was very helpful on the understanding compare to books and slides. This is because we can really touch on the components and interact with lecturers and even lab assistants immediately when we have any questions. Most importantly, we get to discuss with group mates and gain new idea. </p>|
+
 
 
