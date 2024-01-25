@@ -11,9 +11,9 @@ Platform: Webex by Cisco</br>
 <img src="https://github.com/miqbaltariq/SECP1513/assets/147911566/a174e2b5-1f96-4f65-8129-6c7e53e3152b"alt="Logo" width="400" height="400">
   </a></br></br>
 <h2> Report of Industrial Talk 2</h2>
-    <img src = "https://github.com/miqbaltariq/SECP1513/assets/147911566/dbb138d8-e18d-4118-891a-01a01c24f8a5">
-    <img src = "https://github.com/miqbaltariq/SECP1513/assets/147911566/6880ba11-d2ae-487f-9730-e7ba5c2d4229">
-    <img src = "https://github.com/miqbaltariq/SECP1513/assets/147911566/3505ecf2-67b2-40c9-90bd-2fd6db2f9df2">
+Click the link below to view the report :)
+</br></br>
+<a href = "https://drive.google.com/file/d/1mWPpY3QQYDdwS8LgsLcfAuYwiDbiNu3F/view?usp=drive_link">Report</a>
   </br>
 <h2>Personal Overview and Thoughts</h2>
 
