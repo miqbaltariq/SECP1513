@@ -12,7 +12,7 @@ Platform: Webex by Cisco</br>
   </a></br></br>
 <h2> Report of Industrial Talk 2</h2>
 Click the link below to view the report :)
-</br></br>
+</br>
 <a href = "https://drive.google.com/file/d/1mWPpY3QQYDdwS8LgsLcfAuYwiDbiNu3F/view?usp=drive_link">Report</a>
   </br>
 <h2>Personal Overview and Thoughts</h2>
