@@ -11,4 +11,5 @@
 <p>As a reflection, we would have treat Software Engineering course as our passion. We ought to remind ourself the purpose we take this course. With the passionate and the curiosity throughout this course, we will have the urge to keep on exploring new things in computer science and even coding. With the love and determination for this course, we will face every challenges we encounter bravely and will not give up easily. With the attitude of learning new knowledge and determination, I believe that we will success and be a good software developer one day. </p>
 
 <p>Here's a newsletter we have made after the visit</p>
+
 <p>Have a deep glance in it </p>
