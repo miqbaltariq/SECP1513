@@ -1,7 +1,8 @@
 # Design Thinking
 Our project is an anti scam call app called ScamKiller. We have done some survey before starting our project. We have also interviewed experienced people. Therefore, we have produced a prototype of our app. Do take a look! 
 
-Click this link below to view our Design Thinking Report :)
+<h2>Design Thinking Report</h2>
+Click the link below to view our Design Thinking Report :)
 
 <a href="https://drive.google.com/file/d/1LRUmjoIb6NC6SJsasYu4BfGJo979PuDA/view?usp=drive_link">Design Thinking Report</a>
 <h2>Personal Overview and Thoughts</h2>
