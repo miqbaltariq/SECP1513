@@ -12,7 +12,10 @@ Platform: Webex by Cisco</br>
      <img src="https://github.com/xinydd/IndustrialTalk/assets/147911566/18fd898b-cc31-4790-bc07-4fd35e269e24"alt="Logo" width="325" height="225">
      <img src="https://github.com/xinydd/IndustrialTalk/assets/147911566/0a4c4cae-39b7-4e0d-b6e4-f0b330c357a9"alt="Logo" width="325" height="225">
 <h2>Poster for Industry Talk 1</h2>
- <img src="https://github.com/xinydd/IndustrialTalk/assets/147911566/720a74bd-4f6a-4693-a592-31f9ae12dbe6">
+ Click the link below to view poster :)
+    
+  <a href = "https://drive.google.com/file/d/1KbBbEwNQyAxkjxuRTxllJLGKHqMQitjU/view?usp=drive_link">Poster</a>
+  
 <h2>Personal Overview and Thoughts</h2>
     
   On 14th November 2023, I have attended an industrial talk titled OVERVIEW OF ICT JOBS IN CLARITY TECHWORKS SDN BHD at 2:30pm to 4:30pm through Webex by Cisco. I acquired a multitude of valuable insights from the talk. The session provided me a deeper understanding of the current trends of technology, challenges during work, and future prospects.
