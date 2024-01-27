@@ -1,0 +1,25 @@
+## Submission
+| **Assignment** | **Description**  | **Reflection** |
+| ----- |  ------ | ----- | 
+| **1 - POSTER** | *FanTastech Industrial Talk 1 - Assignment 1* | This poster highlights the Industrial Talk organized by Dr. Muhammad Iqbal Tariq, where representatives from Clarity Techworks were invited to discuss ICT jobs. I can say that the meeting was very interesting but the point that resonated with me was that jobs don't solely look for people with high GPAs but rather they look for individuals who have created a wide range of projects and that are proven to have the ability to solve problems. | 
+| **2 - VIDEO** | *FantasTech Industrial Visit 1 - Assignment 2* | [Video link](https://youtu.be/tCT9Sbe8C_8)<br> IHere we visited UTM Digital with Dr. Muhamad Iqbal and I found this visit to be very interesting.
+ | 
+| **3 - REPORT** | *FantasTech Industrial Talk 2 - Assignment 3* | After hearing Qistina Azman talk about her job in analytics, I feel excited about becoming a system developer. I like how she learned and grew in her career. Credence, where she works, sounds cool with its comfy and flexible vibe. I want to be like her in the next four years by always learning new things. Qistina mentioned dealing with data and making it easy to understand, and that's something I want to get good at. I also learned that different people in a company need different kinds of information, so I want to be useful to everyone. Overall, her talk made me want to keep learning, get good at tech stuff, and be a helpful part of a team. | 
+| **4-NEWSLETTER** |*FantasTech Assignment 4 Newsletter Clarity*  | Visiting CLARITY TECHWORKS gave me a clear insight into how it is working in a fintech company. I understood every particular job of each team, like Backend, Styling, and Frontend, and what languages or software they use. I believe this visit encouraged me to continue and pursue my major, Software Engineering. Even though I would like to become a backend developer I believe it is necessary to be a full-stack developer to have basic knowledge on other fields.
+ |
+| **5 - QUIZ** | *PC Assemble* | On that day Dr. Muhammad Iqbal Tariq divided the class into groups of 5 to dissemble and then re-assemble a desktop. We were required to take parts out of the desktop one after another: Desktop cover, wires, battery, RAM, Hard-disc, and lastly the CPU fan. Then, we were told to reassemble the desktop again and the desktop had to work when powered on. The first group to finish would be rewarded. Unfortunately, we weren't the fastest but our desktop worked. I found this activity very helpful as I learned the interiors of a desktop.
+ |
+| **6 - Phase 2** | *FantasTech Phase 2 Design Thinking Information Gathering & Analysis
+* | Doing this report was very helpful for the real world because we have interviewed people and done a survey, which would be vital when working in jobs requiring gathering information.|
+| **7 - Proposal** | *Plagiarism Detection Proposal (FantasTech)* | I learned from this proposal that Drs. are humans too just like me. I had in mind they were some kind of superior humans that I was afraid to approach to interview them. After I interviewed Dr. Alif Ridzuan, I realized that Drs. are very kind. Dr. Alif was very sweet and he did the interview with us providing all the necessary information that we needed! I also learned how it is working in a group. The proposal was complicated to make, but I can't say that I didn't enjoy making it.|
+| **7 - Final Report** | *FantasTech Project Design Thinking Report* | 1. What is your goal/dream with regard to your course/program?
+
+   My goal is to create innovative and user-friendly software during my study. I aim to make software that works well, employs the latest technology, and ensures user safety. I aspire to build a friendly community and provide helpful solutions, making a positive impact now and in the future.
+
+2. How does this design thinking impact on your goal/dream with regard to your program?
+
+   Design thinking in my software engineering program empowers me to create better, user-friendly solutions. It aligns with my goal of crafting innovative and accessible software. Through projects like AI plagiarism detection, I address user challenges and collaboratively work to improve existing tools, guided by a step-by-step process that encourages continuous improvement.
+
+3. What is the action/improvement/plan necessary for you to improve your potential in the industry?
+
+   To enhance my potential in the industry, I'll focus on continuous learning and creative thinking. Staying informed about industry trends, attending conferences, and engaging with experienced professionals will be crucial. Active participation in projects and seeking guidance will not only broaden my skill set but also expose me to diverse challenges, contributing to my growth within the software engineering industry.|
