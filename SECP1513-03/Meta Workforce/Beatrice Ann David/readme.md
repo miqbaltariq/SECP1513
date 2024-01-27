@@ -1,5 +1,6 @@
 Reflection:
 
+
 Assigment 1 (Format: Poster):   
 
 Through this assignment, I learn how to work in team and compromise certain things to finish this assignment 
@@ -8,12 +9,14 @@ Through this assignment, I learn how to work in team and compromise certain thin
                                 changing advice. For example, Izzah Fatini binti Mohd Nasr, one of the UI/UX design department said that you 
                                 need to learn from your mistakes and continuously learning new skills. This marks the first industry talk.
 
+
 Assignment 2 (Format: Video):
 
 Through this assignment, I learn how to make a video with my teammates. The support they gave is immeasurable. I have learned a lot of 
 information about UTM digital. The facilities and the services they offered to the students in Universiti Teknologi Malaysia (UTM). 
 In the huge UTM digital building, they have UTM Digital Care Unit that students can receive assistance from regarding their student 
 account at UTM. This amazes me a lot as now I know where to go if I encountered such issue. This marks the first industrial visit.
+
 
 Assignment 3 (Format: Report)
 
@@ -23,6 +26,7 @@ Personally, I have learnt many things Credence A TM's company and their system d
 company which is to help their customers or users in getting a good boost for their digital bussiness. Their dedication and hardworking
 should be rewarded. 
 
+
 Assignment 4 (Format:  Technical Paper IEEE Format)
 
 Through this assignment, my team members have made a newsletter regarding our industrial visit to Clarity Techworks. At the company
@@ -31,11 +35,13 @@ have one day in a month where the people who are working there will have a blast
 is allowed. How cool is that! I also got to know how the CEO got into IT in the first place. Apparently, he was just 11 when he receive 
 his call to pursue IT. 
 
+
 Lab (PC ASSEMBLE):
 
 I have learnt how to assemble and reassemble computer components such as RAM (Random Access Memory) and cables. It was pretty challenging 
 at first but thanks to my teammates, they were very postive and helpful that we managed to finish this lab in time. Overall, I find it 
 interesting and fun.
+
 
 Design thinking Project (Prototype):
 
@@ -44,3 +50,8 @@ Mustafa's ideas and also the others, we've managed to draw a perfect prototype a
 data from people around us that are using online clothing platforms via google form. It was a fun and challenging experience overall.
 
 
+Design thinking Project (Report):
+
+Once again thanks to all my teammates for their undivided support in finishing this report. I have learned how to write a formal report
+and analyse data in order to write the summary that has been written in this report. I have also learned how to divide tasks among my 
+team members and support them and work together. 
