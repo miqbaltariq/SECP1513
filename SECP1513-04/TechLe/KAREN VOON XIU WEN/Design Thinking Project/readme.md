@@ -6,4 +6,5 @@ During the starting phase, I felt that the design thinking project is a heavy pr
 
 REPORT:
 
-[Uploading TechLe Design Thinking Report.pdf…]()
+[TechLe Design Thinking Report.pdf](https://github.com/miqbaltariq/SECP1513/files/14073052/TechLe.Design.Thinking.Report.pdf)
+
