@@ -17,3 +17,4 @@ Design Thinking (Prototype) :
 Prototype of Design Thinking is the tasks that I take. In doing the prototype, it need good drawing skill to complete it so it had been a hard task for me. So, it takes a week for me to finish it. Although it is not an easy works but luckily I done it successfully. It adds to my drawing experience, and make me to stand out from others. 
 
 Design Thinking (Report) :
+It comes to the end for the design thinking assignment. I have learn many things from the perspective of communication, leadership, and problem solving skills. Thanks to all my group member for this such wonderful report.
