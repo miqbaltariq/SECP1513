@@ -45,7 +45,7 @@ interesting and fun.
 
 Design thinking Project (Prototype):
 
-All thanks to my teammates that we managed to finish our prototype in time, with Jing Yie's, one of my teammates amazing drawing skills and 
+All thanks to my teammates that we managed to finish our prototype in time, with Jin Yie's, one of my teammates amazing drawing skills and 
 Mustafa's ideas and also the others, we've managed to draw a perfect prototype and interview a businesswoman. While Mustafa and I were collecting
 data from people around us that are using online clothing platforms via google form. It was a fun and challenging experience overall.
 
