@@ -16,3 +16,4 @@ It is my first time to disassemble and reassemble the PC. It is totally a good e
 Design Thinking (Prototype) :
 Prototype of Design Thinking is the tasks that I take. In doing the prototype, it need good drawing skill to complete it so it had been a hard task for me. So, it takes a week for me to finish it. Although it is not an easy works but luckily I done it successfully. It adds to my drawing experience, and make me to stand out from others. 
 
+Design Thinking (Report) :
