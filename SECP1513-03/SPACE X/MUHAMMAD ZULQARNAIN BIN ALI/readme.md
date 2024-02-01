@@ -1,6 +1,10 @@
 **REFLECTION**
-| No | Description |REFLECTION|
-|:--:| :---------: | :------------------------------------------:|
-|
-|
-|
+
+| No | Description | Reflection |
+| :---: | :---: | :---: |
+| 1 | Assignment 1 (Poster) | From the Industrial Talk with Clarity Techworks team I got a first glimpse of what the job scopes of IT jobs. The speaker help ume understand better on what I can expect from the respective jobs so that I can be ready and motivate myself better. |
+| 2 | Assignment 2 (Video) | The UTMDigital industrial visit at the UTMDigital building give me better insight on how the networking jobs will be and also give us a rough idea on how the networking and UTM's servers work in the UTM. Furthermore,I also saw the modern office which an open office that have a lot of benefits on the workers. This make me want to take some consideration on the workplaces when choosing jobs later on if I have the chances. |
+| 3 | Assignment 3 (Report) |In Industrial Talk 2, the speaker talk about cloud technology specifically the one from her company, Credence. During this talk, I gained a lot of knowledge on the technology. It also remind me that the cloud technology is gonna be crucial in the future as it is very convinient and this motivate me to further my own research on this topic. |
+| 4 | Assignment 4 (Newsletter) |Clarity Techwork industrial visit was a fun and helpful experience for me as it give me a more practical information from the first Industrial Talk with CLarity Techworks. The IT team there explain in more details about their jobscopes furthermore they even showed simple projects using the tools of their work. This answer alot of my questions about IT jobs. |
+| 5 | PC Assemble (Lab) | The PC assembly help me in knowing how to assembly a computer. I also learn how to identify parts in the computers so and how its works. |
+| 6 | Design Thinking (Omnispecs Prototype) | The design thinking prototype experience greatly benefited my learning journey by exploring the integration of AI technology as it is my team topic for this project. This practical application teach me on how to know the clients needs, fostering the generation of impactful solutions. Additionally, team works needs of the project enhanced my teamwork skills, as I engaged in constructive discussions and worked collectively with teammates towards innovative solutions. |
