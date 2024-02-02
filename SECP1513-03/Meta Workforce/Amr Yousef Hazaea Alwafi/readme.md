@@ -13,7 +13,7 @@ Working on this assignment exposed me to the intricacies of video creation, high
 from my team. The assignment cantered around UTM digital, unravelling the array of facilities and services provided 
 to University Technology Malaysia (UTM) students. Noteworthy was the UTM Digital Care Unit housed in the expansive 
 UTM digital building, where students could seek assistance for issues related to their student accounts at UTM. This 
-revelation now serves as a valuable reference for addressing such concerns. (Industrial visit 1)
+revelation now serves as a valuable reference for addressing such concerns.(Industrial visit 1)
 
 Assignment 3 (Format: Report):
 
