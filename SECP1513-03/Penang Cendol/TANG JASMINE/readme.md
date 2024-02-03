@@ -1,7 +1,7 @@
 # Submission
 
 | No. | Description | Reflection |
-|:---:|:---|:---:|
+|:---:|:---:|:---:|
 |1|Assignment 1/Poster|The industry talk by Clarity Techworks shared the job responsibilities of their respective roles. I've gained a deeper insight into my future career in the IT industry.  I now feel more prepared and inspired to navigate the challenges and opportunities that lie ahead in this rapidly advancing field of IT.|
 |2|Assignment 2/Video|The industry visit to UTM Digital was truly an eye-opening experience for me. I not only had the opportunity to witness the inner workings of UTM Digital but also gained valuable insights into their pivotal role in managing UTM's network, data center, and software applications, among various other responsibilities.|
 |3|Assignment 3/Report|I've learned a lot regarding analytics and recognized the working culture at Credence  from the speaker, who is currently working on the Credence Tech analytic delivery team. Besides, the speaker is truly an inspirational person. Throughout the talk, she highlights how her unwavering attitude and pouring efforts helped in achieving her goals. Her positive attitude had motivated me to work harder and strive for excellence in all aspects of my life.|
