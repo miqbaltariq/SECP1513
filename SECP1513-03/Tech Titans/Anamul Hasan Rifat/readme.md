@@ -11,3 +11,12 @@ SECP1513/03, TIS, Tech Titans, Anamul Hasan Rifat, Assignment 4/ Newsletter  ![G
 
 SECP1513/03, TIS, Tech Titans, Anamul Hasan Rifat, Project Design Thinking Report https://docs.google.com/document/d/1ZI0Mn4CYevdDmg0N0Ma-cxbdsOhvXE1nWNirk7jdwAU/edit?usp=sharing
 
+## Submission
+| Assignment | Description  | Reflection |
+| :-----: |  ------ | :-----: | 
+| 1 | Assignment 1/Poster | Attending the Industrial Talk,  experts and professionals who share their experiences, insights, and knowledge about the current trends, challenges, and opportunities in the ICT industry. Which can be helpful for my career.  | 
+| 2 | Assignment 2/Video | By visiting UTM Digital we had opportunity to talk with industrial experts and acess to their insights and experience and expertise which can be be valuable for our own learning and growth.  | 
+| 3 | Assignment 3/Report | From the talk, I was able to find out how a typical tech company works and operates. I was also able to learn about the company's work culture experience and how it relates to a succesful company. | 
+| 4 | Assignment 4/Newsletter |  Visiting Clarity Techworks company during the first year of university was a valuable introduction to the professional world and understanding of the typical work environment in a company, office setups and facilities. These practical insights and industry exposure will be beneficial for my future career field. |
+| 5 | Quiz/PC Assemble | The PC Assembling was a fun and insightful experience. It allowed me to get hands-on experience in assembling a PC while also working with a team. Coupled with the quiz that followed, I was able to recognize and understand what pieces of a PC belongs to where. |
+| 6 | Design Thinking (Low Fidelity Prototype) | This is Group projects serves me as a platform for applying theoretical knowledge gained in the classroom to real-world situations where we bridged a gap between AR in real state agency by overlaying digital information onto physical environment. Overall, it was a fun and good  experience to work with ohter good folks.  |
