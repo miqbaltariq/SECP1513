@@ -2,7 +2,7 @@
 
 | No | Description | Reflection |
 | :---: | :---: | :---: |
-| 1 | Assignment 1 (Poster) | At the Clarity Techworks industrial talk, I got a glimpse into the world of Information Technology, helping me understand my future career better. The speakers shared practical insights that are shaping my path forward. This experience has helped me identify my strengths and weaknesses in the industry, and I'm now motivated to work on improving myself for the challenges ahead. |
+| 1 | Assignment 1 (Poster) | At the Clarity Techworks industrial talk, I gained valuable insights into the Information Technology field, providing me with a clearer perspective on my future career. The speakers shared practical knowledge that has significantly influenced my understanding of the industry. This exposure allowed me to assess my strengths and weaknesses, guiding me towards self-improvement to better navigate the upcoming challenges in my career journey. |
 | 2 | Assignment 2 (Video) | The UTMDigital industrial visit was an eye-opener, giving me a firsthand look at how data management and digital services operate at UTM. Seeing technological innovations in action provided valuable insights for our future careers and sparked a keen interest in me. You can check out the video of our visit here: (https://www.youtube.com/watch?v=fX24_BixAO8)|
 | 3 | Assignment 3 (Report) |During this industrial talk, I gained a deep understanding of a computing company's operations, particularly its focus on advancing cloud technology and digital services analytics. The shared experiences of the speakers provided valuable insights into system development, enriching my knowledge in this domain. |
 | 4 | Assignment 4 (Newsletter) |
