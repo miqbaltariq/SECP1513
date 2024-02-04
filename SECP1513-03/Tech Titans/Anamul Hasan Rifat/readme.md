@@ -7,6 +7,7 @@ SECP1513/03, TIS, Tech Titans, Anamul Hasan Rifat, Assignment 3/ Report![image](
 ![image](https://github.com/miqbaltariq/SECP1513/assets/148675896/51634c64-6628-4489-8380-3c6f96556f86)
 ![image](https://github.com/miqbaltariq/SECP1513/assets/148675896/6d908b7a-13d0-46a3-8f68-e1f6c272407a)
 
- 
-SECP1513/03, TIS, Tech Titans, Anamul Hasan Rifat, Assignment 4/ Newsletter
-SECP1513/03, TIS, Tech Titans, Anamul Hasan Rifat, Project Design Thinking Report
+SECP1513/03, TIS, Tech Titans, Anamul Hasan Rifat, Assignment 4/ Newsletter  ![Green and White Real Estate Instagram Story D - Made with PosterMyWall](https://github.com/miqbaltariq/SECP1513/assets/148675896/3a0b9c2f-5455-41a6-9b44-a5b765c48373)
+
+SECP1513/03, TIS, Tech Titans, Anamul Hasan Rifat, Project Design Thinking Report https://docs.google.com/document/d/1ZI0Mn4CYevdDmg0N0Ma-cxbdsOhvXE1nWNirk7jdwAU/edit?usp=sharing
+
