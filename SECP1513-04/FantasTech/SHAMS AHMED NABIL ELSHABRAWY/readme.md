@@ -1,0 +1,10 @@
+ Certainly! Here are reflections for each assignment presented in a table format:
+
+| Assignment | Reflection |
+|------------|------------|
+| **Poster Presentation:** | The Clarity Techworks presentation stirred my curiosity in computer science. Discovering various roles like Android Developer and QA Analyst, along with advice on skills and industry readiness, has sparked my interest in exploring diverse opportunities within the field. |
+| **Video Assignment:** | The virtual talk and UTM Digital visit unveiled advanced technologies and collaborations with companies like Telekom Malaysia. Witnessing their services and security measures has left a lasting impression, reinforcing my enthusiasm for a career in IT. |
+| **Report:** | Ms. Qistina's insights into her role as a data analyst at Credence have inspired ambitious goals for the next four years. Striving to be a flexible system developer, staying updated on technology, and focusing on teamwork and soft skills align with Ms. Qistina's advice and are crucial for my professional growth. |
+| **Newsletter:** | The enjoyable industrial visit not only provided a glimpse into the IT industry but also deepened my interest. Understanding various positions and workflows within an IT company, along with exposure to diverse technologies, has offered invaluable insights that I believe will positively shape my future endeavors. |
+| **Quiz - PC Assembly:** | Assembling a PC for the first time was intriguing and emphasized the importance of being a well-rounded computer science student. Learning about hardware components like power supply and RAM has broadened my understanding of both software and hardware aspects. |
+| **Design Thinking Project:** | The AI-focused design thinking project has been transformative. It honed my critical thinking, communication, teamwork, and problem-solving skills, emphasizing their crucial role in my journey toward becoming a versatile software engineer capable of providing optimal solutions to clients. |
