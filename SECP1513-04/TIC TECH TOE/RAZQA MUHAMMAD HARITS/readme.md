@@ -1,9 +1,9 @@
 ## Submission
 | Assignment | Description  | Reflection |
 | :-----: |  ------ | :-----: | 
-| 1 | Assignment 1/Poster | Reflection 1 | 
-| 2 | Assignment 2/Video | Reflection 2 https://drive.google.com/drive/folders/1mvdIr2ND6KDVXZv7Soc6UHQ7nUhDoaTA?usp=sharing | 
-| 3 | Assignment 3/Report | Reflection 3 | 
-| 4 | Assignment 4/Newsletter | Reflection 4 |
-| 5 | Quiz/PC Assemble | Reflection Quiz |
-| 6 | Design Thinking Project | Video https://drive.google.com/drive/folders/1XZ7q_m9VGeYJ_lQzetsws1TDdIcyaAQb?usp=sharing |
+| 1 | Assignment 1/Poster | From this industrial talk, I learnt that theoritical excelness is not enoug if you want to strive in the real working world. Teamwork and communication is a key factor in determining one's value in a working place. | 
+| 2 | Assignment 2/Video | I gained first hand experience in a real working place, that is the UTM Digital itself. Here I can see the reality of the values that I got from the first industry talk: teamwork. I saw first hand how the employees at UTM Digital work hand in hand in mantaining the entire digital side of UTM https://drive.google.com/drive/folders/1mvdIr2ND6KDVXZv7Soc6UHQ7nUhDoaTA?usp=sharing | 
+| 3 | Assignment 3/Report | The industrial talk was very insightful and interesting as it gave us ideas on how we can utilize our years at the school of computing here | 
+| 4 | Assignment 4/Newsletter | This visit made me realize how it feels like to be able to succeed in the IT world. Clarity Techworks showed us how it feels like to work in a healthy professional environment where everyone is doing their job with their utmost potential while helping each other to learn to achieve greater heights. |
+| 5 | Quiz/PC Assemble | This was the first time that I got to disassemble a real PC. This experience was very eye opening because it really made me be able to visualize all of the functions of a PC.  |
+| 6 | Design Thinking Project | This project assignment is the biggest assignment of the semester. During the whole project development, I learnt that there are a lot of things to put into account and consider while making a product. In our case, a food oreding app, we don't only to think about what our client wants, but we also have to take into account what the user of the apps will need. Video https://drive.google.com/drive/folders/1XZ7q_m9VGeYJ_lQzetsws1TDdIcyaAQb?usp=sharing |
