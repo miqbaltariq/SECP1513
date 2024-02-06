@@ -27,7 +27,7 @@
   <tr>
     <td>3</td>
     <td>Assignment 3/Report</td>
-    <td>Ms. Qistina's talk introduced me to the role of a data analyst at Credence. Over the next four years, I aim to become a flexible system developer by learning new technologies. It's essential to explore, upgrade skills, and work well in a team because the field is changing. Ms. Qistina's advice inspired me to continue learning in this fast-paced industry.</td>
+    <td>After this talk, I aim to become a flexible system developer by learning new technologies. It's a must to explore, upgrade skills, and work well in a team because the field is changing. Ms. Qistina's advice inspired me to continue learning in this tech industry.</td>
   </tr>
   <tr>
     <td>4</td>
@@ -37,12 +37,12 @@
   <tr>
     <td>5</td>
     <td>Quiz/PC Assemble</td>
-    <td>Assembling a PC was fascinating. I learned how to open the case, unplug cables, and test the computer. Knowing about hardware is crucial for a computer science student.</td>
+    <td>Assembling a PC was fascinating. I learned all about the hardware component as well as how to open the case, unplug cables, and test the computer. Knowing about hardware is crucial for a software engineering student.</td>
   </tr>
   <tr>
     <td>6</td>
     <td>Design Thinking Project</td>
-    <td>The project went beyond mere ideas, providing valuable insights into our chosen AI topic. It enhanced my critical thinking, communication, teamwork, and problem-solving skills. These skills are vital for a software engineer not only to solve problems but also to propose effective solutions for clients.</td>
+    <td>The project went beyond mere ideas, providing valuable insights into our chosen AI topic. It enhanced my critical thinking, communication, teamwork, and problem-solving skills. These skills are vital for a software engineer not only to solve problems but also to propose effective solutions for clients. And designing the prototype with all my teammates was so also pretty memorable</td>
   </tr>
 </table>
 
