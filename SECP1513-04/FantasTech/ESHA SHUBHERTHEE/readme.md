@@ -24,29 +24,26 @@
     <td>FantasTech Assignment 4 Newsletter Clarity</td>
     <td>The industrial visit inspired me a lot seeing a group of very talented IT professionals working passionately. This visit gave me insight different job scopes and skill management. I am very grateful for this visit.</td>
   </tr>
-  <tr>
-    <td>5 - Quiz</td>
-    <td>PC Assemble</td>
-    <td>During the desktop disassembly and reassembly activity led by Dr. Muhammad Iqbal Tariq, although our group didn't finish first, the experience was invaluable in gaining insights into desktop internals.</td>
-  </tr>
-  <tr>
-    <td>6 - Phase 2</td>
-    <td>FantasTech Phase 2 Design Thinking Information Gathering & Analysis</td>
-    <td>Engaging in this report proved beneficial for real-world scenarios, as it involved interviewing individuals and conducting surveys, essential skills for roles requiring information gathering.</td>
-  </tr>
-  <tr>
-    <td>7 - Proposal</td>
-    <td>Plagiarism Detection Proposal (FantasTech)</td>
-    <td>This proposal taught me that professors are approachable and human, dispelling any misconceptions of them being unapproachable. Conducting an interview with Dr. Alif Ridzuan was insightful, and the collaborative effort required for the proposal highlighted the importance of teamwork.</td>
-  </tr>
-  <tr>
-    <td>8 - Final Report</td>
-    <td>FantasTech Project Design Thinking Report</td>
-   <td>
-  1. My passion in Software Engineering lies in crafting innovative and user-friendly software solutions. I strive to contribute to a collaborative environment, delivering impactful solutions that prioritize user safety while embracing cutting-edge technology.<br>
-  2. Utilizing design thinking methodologies empowers me to develop solutions centered around user needs, aligning perfectly with my career objectives. Projects like AI plagiarism detection allow me to iteratively refine solutions, fostering continuous enhancement.<br>
-  3. To thrive in the industry, I prioritize ongoing learning and creativity, staying abreast of industry trends, actively engaging in projects, and seeking mentorship opportunities to expand my skill set and effectively tackle diverse challenges.
-</td>
+  
+ <tr>
+  <td>5 - Quiz</td>
+  <td>PC Assemble</td>
+  <td>Participating in the PC assembly quiz, under the guidance of Dr. Muhammad Iqbal Tariq, was an enlightening experience. While our group didn't secure the top spot, the activity provided invaluable insights into the intricacies of desktop hardware. Exploring the internals of a computer system firsthand deepened my understanding of hardware architecture and its practical application.</td>
+</tr>
+<tr>
+  <td>6 - Phase 2</td>
+  <td>FantasTech Phase 2 Design Thinking Information Gathering & Analysis</td>
+  <td>Delving into the Phase 2 design thinking report was a transformative journey. Through conducting interviews and surveys, I gained practical insights into the art of information gathering and analysis. These skills are not only essential in academia but also lay a solid foundation for professional roles requiring in-depth research and data-driven decision-making.</td>
+</tr>
+<tr>
+  <td>7 - Proposal</td>
+  <td>Plagiarism Detection Proposal (FantasTech)</td>
+  <td>The process of developing the plagiarism detection proposal was a revelation. Collaborating with peers and interviewing experts, including Dr. Alif Ridzuan, shed light on the collaborative nature of academic inquiry. It underscored the significance of interdisciplinary collaboration and reinforced the idea that innovative solutions emerge from diverse perspectives and collective effort.</td>
+</tr>
+<tr>
+  <td>8 - Final Report</td>
+  <td>FantasTech Project Design Thinking Report</td>
+  <td>Reflecting on the final project design thinking report, I am invigorated by the possibilities ahead. My passion for Software Engineering propels me to pursue innovative, user-centric solutions. This journey has not only honed my technical skills but also instilled in me a deeper appreciation for human-centered design. Moving forward, I am committed to continuous learning and collaboration, striving to make meaningful contributions to the field and society at large.</td>
+</tr>
 
-  </tr>
 </table>
