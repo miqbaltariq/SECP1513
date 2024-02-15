@@ -1,9 +1,9 @@
 ## Submission
 | Assignment | Description  | Reflection |
 | :-----: |  ------ | :-----: | 
-| 1 | Assignment 1/Poster | Reflection 1 | 
-| 2 | Assignment 2/Video | Reflection 2 https://drive.google.com/drive/folders/1mvdIr2ND6KDVXZv7Soc6UHQ7nUhDoaTA?usp=sharing | 
-| 3 | Assignment 3/Report | Reflection 3 | 
-| 4 | Assignment 4/Newsletter | Reflection 4 |
-| 5 | Quiz/PC Assemble | Reflection Quiz |
-| 6 | Design Thinking Project | Video https://drive.google.com/drive/folders/1XZ7q_m9VGeYJ_lQzetsws1TDdIcyaAQb?usp=sharing |
+| 1 | Assignment 1/Poster | From attending this webinar, I've learned in depth about how Clarity Techwork operate their business in financial technology. In there, they explain to us on what certain role handle and the technology used. What makes me amazed is the advice from Clarity Techwork CTO, Mr. Yee, is that you have to always continuously learn since every day there will be a new technology in this industry. | 
+| 2 | Assignment 2/Video | Video https://drive.google.com/drive/folders/1mvdIr2ND6KDVXZv7Soc6UHQ7nUhDoaTA?usp=sharing | 
+| 3 | Assignment 3/Report | In order for me to become a system developer in the next 4 years, it is essential to become a live long learner, meaning that I always have to study a new thing every day, whether it is learning a cutting-edge technology or acquire new skill, in order to enhance my competency as a system developer. Thus, it is important for me to have a habit that can promote me to become a lifelong learner and ultimately become a system developer. For example, a habit where I always allocate a few hours in my week to learn new thing or try to become ap roblem solver for your own problem using skill you acquire | 
+| 4 | Assignment 4/Newsletter | From Visitting The Clartiy Techwork, I've learned that every role in I.T used different tools and technology to help them do their job. In addition, from several advice that I got, one of the most insightful is that is to enrich your knowledge on one role. The deeper your knowledge are, the more valuable you become. Overall, this visit gave me handful insight to pursue my carrer |
+| 5 | Quiz/PC Assemble | I've learn how to assemble PC and know it's componenet |
+| 6 | Design Thinking Project | Comprehending the process of design thinking and being able to collaborate with others with the communication skill I get from this course are the most anticipating things I want to achieve in this course. In my opinion, as a person who wants to work as a software engineer in the future, learning the design thinking process is essential because it enables me to make an innovative solution while also satisfying the end user side. With that in mind, developing a skill which enables me to collaborate with others, such as communication skills, is a priority for me. To improve my potential as a software engineer in the industry, seeking an experience in this industry such as trying to contribute to open source technology in github or other platforms and enrich my knowledge regarding IT technology are my approaches are my plan in the future. Video https://drive.google.com/drive/folders/1XZ7q_m9VGeYJ_lQzetsws1TDdIcyaAQb?usp=sharing |
