@@ -1,5 +1,8 @@
-ssignment	Description	Reflection
-1	Assignment 1 (Poster)	Experts believe that information technology (IT) is essential for creating more efficient systems that automate numerous operations with little to no human intervention and lower expenses. Furthermore, operations become more accurate and swift in the presence of information technology (IT).
-2	Assignment 2 (Video)	My visit at UTM Digital gave me further insight into the services offered here. (https://www.youtube.com/watch?v=TXyk5rtT45o)
-3	Assignment 3 (Report)	I've learned from the discussion that my goal is to work as a successful system developer in the approaching years by keeping up with the ever evolving tech business. I've learned from this lecture that system developers deal with complicated problems on a regular basis that call for analytical thinking, therefore I need to get exceptionally adept at solving problems.
-4	Assignment 4 (Newsletter)	I gained early insight into the workings of IT organisations and the duties associated with various job types during my visit to Clarity Techworks.
+## Submission
+| Assignment | Description  | Reflection |
+| :-----: |  ------ | :-----: | 
+| 1 | Assignment 1/Poster |Through this speech, I have a new understanding of ICT, its technology, how to operate, and how to affect the society.|
+| 2 | Assignment 2/Video |My visit to UTM Digital gave me a whole new understanding of how the departments work together, the staff showed us the various services and the role UTM Digital plays on the UTM campus. The following video shows how the different departments work together.（http://youtu.be/vUtVGzGHRAE）| 
+| 3 | Assignment 3/Report | It is my honor to attend this lecture, which makes me understand what a system developer should do in the future, how to improve themselves, and how to need analytical thinking when facing complex problems. Prepare for a successful entry into the industry after graduation. | 
+| 4 | Assignment 4/Newsletter | Visiting Clarity Techworks gave me a real sense of what an IT company is all about, a sense of what departments a company needs, and a pleasant atmosphere to work in. |
+| 5 | Quiz/PC Assemble |Participating in PC asssemble gave me a certain understanding of computer components, and how to disassemble PC components and install PC components allowed me to learn knowledge while doing it. |
